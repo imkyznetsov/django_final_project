@@ -40,3 +40,15 @@
 Full Stack-разработчик, тестировщик и документалист – Кузнецов Иван
 
 ```
+
+## Примеры работы
+
+![image](https://github.com/imkyznetsov/django_final_project/assets/149815971/f85093d8-528a-4c99-8b8a-19f5beae6ca2)
+
+![image](https://github.com/imkyznetsov/django_final_project/assets/149815971/6c66b403-21a2-4d69-b8d5-73c00654c657)
+
+![image](https://github.com/imkyznetsov/django_final_project/assets/149815971/f35123b1-2bd0-4368-af48-e67d45128558)
+
+
+
+
