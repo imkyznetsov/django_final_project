@@ -27,14 +27,11 @@
 - `cd django_final_project-main\django_final_project-main` *перейдите в распакованный рабочий каталог*
 - `$ pip install -r requirements.txt` *(установите все необходимые библиотеки из файла)*
 - `$ python manage.py runserver` *(запустите приложение `Linux`)* `$ py manage.py runserver` *(запустите приложение `Windows`)*
+ 
  ```
-На новой вкладке введите последовательно:
-  curl -X 'POST' \
-  'http://127.0.0.1:8000/predict/' \
-  -H 'Content-Type: application/json' \
-  -d '{
-  "text": "Only this evening, and only now you can hear this bell"
-}'
+Если страница не открылась автоматически, то на новой вкладке Вашего браузера введите адрес:
+  http://127.0.0.1:8000
+  
  ```
 
 ## Выполнил
