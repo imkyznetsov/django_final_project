@@ -24,7 +24,7 @@
 > [!NOTE]
 > *Для успешного запуска приложения, пожалуйста, проделайте следующие шаги:*
 - `$ git clone git@github.com:imkyznetsov/django_final_project.git` *(создайте клон проекта `Linux`)/скачайте (`Windows`)* >>> [Download](https://github.com/imkyznetsov/django_final_project/archive/refs/heads/main.zip) <<< *из репозитория и распакуйте*
-- `cd django_final_project-main\django_final_project-main` *перейдите в распакованный рабочий каталог*
+- `$ cd django_final_project-main\django_final_project-main` *перейдите в распакованный рабочий каталог*
 - `$ pip install -r requirements.txt` *(установите все необходимые библиотеки из файла)*
 - `$ python manage.py runserver` *(запустите приложение `Linux`)* `$ py manage.py runserver` *(запустите приложение `Windows`)*
  
