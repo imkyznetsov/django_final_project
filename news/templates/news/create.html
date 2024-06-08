@@ -1,0 +1,19 @@
+{% extends 'firstapp/layout.html' %}
+
+{% block titel %}Здесь Вы можете добавить свою заметку{% endblock %}
+
+
+{% block content %}
+   <div class="features">
+             <h1>Здесь Вы можете добавить свою заметку</h1>
+             <form method="post">
+              {% csrf_token %}<br>
+              {{ form.title }}<br>
+              {{ form.description }}<br>
+              {{ form.full_text }}<br>
+              {{ form.date }}<br>
+              <span>{{ error }}</span>
+             <button class="btn btn-success" type="submit">Добавить</button>
+             </form>
+   </div>
+{% endblock %}
